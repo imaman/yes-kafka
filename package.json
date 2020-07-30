@@ -1,7 +1,7 @@
 {
   "name": "yes-kafka",
-  "homepage": "https://github.com/mnorkin/yes-kafka",
   "description": "Apache Kafka 0.9 client",
+  "homepage": "https://github.com/mnorkin/yes-kafka",
   "author": {
     "name": "Oleksiy Krivoshey",
     "email": "oleksiyk@gmail.com"
